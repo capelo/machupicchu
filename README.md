@@ -1,0 +1,2 @@
+To celebrate the 100 years of rediscovery of Machu Picchu, I prepared this small interactive book telling about the history of this important beautiful place for the humanaty. 
+Project for iPad using Cocos2D
